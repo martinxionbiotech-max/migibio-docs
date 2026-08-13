@@ -1,5 +1,6 @@
 ---
 title: "Feline Infectious Disease"
+date: 2026-08-13
 description: "Testing guides for feline infectious diseases — panleukopenia, calicivirus, herpesvirus, coronavirus, leukaemia, and immunodeficiency viruses."
 ---
 

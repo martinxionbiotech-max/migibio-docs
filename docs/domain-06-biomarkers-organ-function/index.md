@@ -1,5 +1,6 @@
 ---
 title: "Biomarkers & Organ Function"
+date: 2026-08-13
 description: "Organ-function and inflammatory biomarkers — SDMA, cystatin C, NT-proBNP, CRP/SAA, and pancreatic lipase for kidney, cardiac, and inflammation assessment."
 ---
 

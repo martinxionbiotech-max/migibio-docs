@@ -45,6 +45,9 @@ theme:
 
 nav:
   - Home: index.md
+  - "About & Editorial":
+      - about/index.md
+      - editorial-policy/index.md
   - "Domain 01 · Analyzer Technology":
       - domain-01-analyzer-technology/index.md
   - "Domain 02 · Detection Principles":

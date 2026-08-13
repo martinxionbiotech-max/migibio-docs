@@ -1,5 +1,6 @@
 ---
 title: "Quality Control & Compliance"
+date: 2026-08-13
 description: "Quality control, calibration, regulatory compliance, and documentation — ISO9001/GMP, IFU, and COA."
 ---
 

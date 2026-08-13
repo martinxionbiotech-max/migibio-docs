@@ -15,6 +15,7 @@
         "email": "info@magic-bio.com",
         "telephone": "+86-20-82288812",
         "foundingDate": "2017-11",
+        "foundingLocation": { "@type": "Place", "name": "Guangzhou Science City, Guangdong, China" },
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road",
@@ -31,6 +32,10 @@
           "Fluorescence Immunochromatography",
           "Veterinary Point-of-Care Diagnostics",
           "Canine and Feline Infectious Disease Testing"
+        ],
+        "makesOffer": [
+          { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "FIA680 Fluorescence Immunoassay Analyzer" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "FIA880 Fluorescence Immunoassay Analyzer" } }
         ]
       },
       {
@@ -40,8 +45,33 @@
         "name": "Migibio Veterinary Diagnostics Knowledge Base",
         "publisher": { "@id": "https://migibio.com/#organization" },
         "inLanguage": "en"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "{{ page.canonical_url }}#webpage",
+        "url": "{{ page.canonical_url }}",
+        "name": "{{ page.title }}",
+        "isPartOf": { "@id": "https://docs.migibio.com/#website" },
+        "about": { "@id": "https://migibio.com/#organization" },
+        "publisher": { "@id": "https://migibio.com/#organization" },
+        "author": {
+          "@type": "Organization",
+          "name": "Migibio Clinical & Scientific Affairs",
+          "parentOrganization": { "@id": "https://migibio.com/#organization" }
+        },
+        "dateModified": "{{ page.meta.get('date', '2026-08-13') if page.meta else '2026-08-13' }}",
+        "inLanguage": "en"
       }
     ]
   }
   </script>
+{% endblock %}
+{% block content %}
+  {{ super() }}
+  <div class="md-source-file" style="margin-top:2.5rem;padding:1rem 1.25rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.8rem;color:var(--md-default-fg-color--light);">
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Authored by:</strong> Migibio Clinical &amp; Scientific Affairs, Guangzhou Magic Biotech Co., Ltd.</p>
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Reviewed by:</strong> Migibio R&amp;D Quality Committee</p>
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> {% if page.meta and page.meta.date %}{{ page.meta.date }}{% else %}2026-08-13{% endif %}</p>
+    <p style="margin:0;"><em>Disclosure: Migibio (Guangzhou Magic Biotech Co., Ltd.) is the manufacturer of the FIA680/FIA880 analyzers and FICT reagents referenced in this content. See our <a href="https://docs.migibio.com/editorial-policy/">Editorial &amp; Review Policy</a>.</em></p>
+  </div>
 {% endblock %}

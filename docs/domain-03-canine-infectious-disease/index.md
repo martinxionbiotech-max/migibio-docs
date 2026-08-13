@@ -1,5 +1,6 @@
 ---
 title: "Canine Infectious Disease"
+date: 2026-08-13
 description: "Testing guides for canine infectious diseases — parvovirus, distemper, coronavirus, adenovirus, Leishmania, and Toxoplasma."
 ---
 

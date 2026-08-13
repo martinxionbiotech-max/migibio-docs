@@ -1,5 +1,6 @@
 ---
 title: "Clinical Application"
+date: 2026-08-13
 description: "Applying Migibio diagnostics in practice — POCT workflow design, result interpretation, and clinical case studies."
 ---
 

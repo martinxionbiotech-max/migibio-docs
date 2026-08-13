@@ -1,5 +1,6 @@
 ---
 title: "Analyzer Technology"
+date: 2026-08-13
 description: "Technical specifications, operation, calibration, and maintenance of the Migibio FIA680 and FIA880 immunofluorescence quantitative analyzers."
 ---
 

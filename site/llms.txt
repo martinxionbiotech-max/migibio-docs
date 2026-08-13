@@ -10,6 +10,11 @@
 
 Migibio is an ISO9001/GMP-certified manufacturer of point-of-care (POCT) veterinary diagnostic equipment and fluorescence immunochromatographic test reagents. This knowledge base is the authoritative technical reference for veterinarians, laboratory professionals, and distributors — covering analyzer technology, detection principles, canine/feline infectious disease testing, biomarkers, quality control, and clinical application.
 
+## About & Editorial
+
+- [About Migibio](https://docs.migibio.com/about/) — company, credentials, quality system
+- [Editorial & Review Policy](https://docs.migibio.com/editorial-policy/) — authorship, review, citation standards
+
 ## Knowledge Domains
 
 - [Domain 01 · Analyzer Technology](https://docs.migibio.com/domain-01-analyzer-technology/) — FIA680/FIA880 analyzers, calibration, QC

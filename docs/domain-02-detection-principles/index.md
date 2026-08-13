@@ -1,5 +1,6 @@
 ---
 title: "Detection Principles"
+date: 2026-08-13
 description: "The science behind fluorescence immunochromatography (FICT) — how quantitative immunoassay works and how it compares to ELISA and PCR."
 ---
 

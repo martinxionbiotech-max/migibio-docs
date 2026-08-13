@@ -1,5 +1,6 @@
 ---
 title: "Industry Knowledge"
+date: 2026-08-13
 description: "Industry context — the veterinary POCT market, regulatory landscape, and technology roadmap."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Hormones & Endocrine"
+date: 2026-08-13
 description: "Hormone and endocrine testing — thyroid (T4/TSH), cortisol, progesterone, and relaxin for clinical and breeding applications."
 ---
 

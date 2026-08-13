@@ -1,5 +1,6 @@
 ---
 title: "B2B Resources"
+date: 2026-08-13
 description: "Resources for distributors and partners — procurement, OEM/ODM, private label, and technical support."
 ---
 

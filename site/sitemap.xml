@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.migibio.com/about/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.migibio.com/domain-01-analyzer-technology/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
@@ -52,6 +57,11 @@
     </url>
     <url>
          <loc>https://docs.migibio.com/domain-10-b2b-resources/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.migibio.com/editorial-policy/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

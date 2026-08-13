@@ -1,5 +1,6 @@
 ---
 title: "Migibio Veterinary Diagnostics Knowledge Base"
+date: 2026-08-13
 description: "Authoritative technical knowledge base for Migibio (Guangzhou Magic Biotech) — veterinary POCT analyzers, FICT technology, and canine/feline diagnostic reagents."
 ---
 
