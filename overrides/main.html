@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://migibio.com/#organization",
+        "name": "Guangzhou Magic Biotech Co., Ltd.",
+        "alternateName": "Migibio",
+        "url": "https://migibio.com",
+        "email": "info@magic-bio.com",
+        "telephone": "+86-20-82288812",
+        "foundingDate": "2017-11",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road",
+          "addressLocality": "Guangzhou",
+          "addressRegion": "Guangdong",
+          "addressCountry": "CN"
+        },
+        "description": "High-tech manufacturer of POCT veterinary diagnostic equipment and rapid test reagents using fluorescence immunochromatographic technology (FICT).",
+        "hasCertification": [
+          { "@type": "Certification", "name": "ISO9001 Quality Management System" },
+          { "@type": "Certification", "name": "GMP (Good Manufacturing Practice)" }
+        ],
+        "knowsAbout": [
+          "Fluorescence Immunochromatography",
+          "Veterinary Point-of-Care Diagnostics",
+          "Canine and Feline Infectious Disease Testing"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://docs.migibio.com/#website",
+        "url": "https://docs.migibio.com",
+        "name": "Migibio Veterinary Diagnostics Knowledge Base",
+        "publisher": { "@id": "https://migibio.com/#organization" },
+        "inLanguage": "en"
+      }
+    ]
+  }
+  </script>
+{% endblock %}

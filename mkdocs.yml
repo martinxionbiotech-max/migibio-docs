@@ -1,0 +1,95 @@
+# ============================================================
+# mkdocs.yml — Migibio Veterinary Diagnostics Knowledge Base
+# Site: https://docs.migibio.com
+# Stack: MkDocs 1.6 + Material
+# ============================================================
+
+site_name: Migibio Veterinary Diagnostics Knowledge Base
+site_description: >-
+  Authoritative technical knowledge base for Migibio (Guangzhou Magic Biotech) —
+  veterinary POCT diagnostic analyzers (FIA680/FIA880), fluorescence
+  immunochromatography (FICT) technology, and canine/feline diagnostic reagents.
+site_url: https://docs.migibio.com/
+site_author: Guangzhou Magic Biotech Co., Ltd.
+copyright: © 2026 Guangzhou Magic Biotech Co., Ltd. (Migibio)
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  icon:
+    logo: material/stethoscope
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - "Domain 01 · Analyzer Technology":
+      - domain-01-analyzer-technology/index.md
+  - "Domain 02 · Detection Principles":
+      - domain-02-detection-principles/index.md
+  - "Domain 03 · Canine Infectious Disease":
+      - domain-03-canine-infectious-disease/index.md
+  - "Domain 04 · Feline Infectious Disease":
+      - domain-04-feline-infectious-disease/index.md
+  - "Domain 05 · Hormones & Endocrine":
+      - domain-05-hormones-endocrine/index.md
+  - "Domain 06 · Biomarkers & Organ Function":
+      - domain-06-biomarkers-organ-function/index.md
+  - "Domain 07 · Quality Control & Compliance":
+      - domain-07-quality-control-compliance/index.md
+  - "Domain 08 · Clinical Application":
+      - domain-08-clinical-application/index.md
+  - "Domain 09 · Industry Knowledge":
+      - domain-09-industry-knowledge/index.md
+  - "Domain 10 · B2B Resources":
+      - domain-10-b2b-resources/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  generator: false
