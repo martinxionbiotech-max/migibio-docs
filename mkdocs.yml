@@ -50,24 +50,54 @@ nav:
       - editorial-policy/index.md
   - "Domain 01 · Analyzer Technology":
       - domain-01-analyzer-technology/index.md
+      - "FIA680 Operation Guide": domain-01-analyzer-technology/fia680-guide.md
+      - "FIA880 Operation Guide": domain-01-analyzer-technology/fia880-guide.md
+      - "Calibration & Standard Curves": domain-01-analyzer-technology/calibration-standard-curves.md
   - "Domain 02 · Detection Principles":
       - domain-02-detection-principles/index.md
+      - "How FICT Works": domain-02-detection-principles/fict-principle.md
+      - "Quantitative vs Qualitative": domain-02-detection-principles/quantitative-vs-qualitative.md
+      - "Understanding LOD/LOQ/CV%": domain-02-detection-principles/understanding-lod-cv.md
   - "Domain 03 · Canine Infectious Disease":
       - domain-03-canine-infectious-disease/index.md
+      - "CPV Testing Guide": domain-03-canine-infectious-disease/cpv-testing-guide.md
+      - "CDV Testing Guide": domain-03-canine-infectious-disease/cdv-testing-guide.md
+      - "CCV, CAV & Other Pathogens": domain-03-canine-infectious-disease/other-canine-pathogens.md
   - "Domain 04 · Feline Infectious Disease":
       - domain-04-feline-infectious-disease/index.md
+      - "FPV Testing Guide": domain-04-feline-infectious-disease/fpv-testing-guide.md
+      - "FeLV Testing Guide": domain-04-feline-infectious-disease/felv-testing-guide.md
+      - "FIV Testing Guide": domain-04-feline-infectious-disease/fiv-testing-guide.md
   - "Domain 05 · Hormones & Endocrine":
       - domain-05-hormones-endocrine/index.md
+      - "Thyroid Testing (T4/TSH)": domain-05-hormones-endocrine/thyroid-testing.md
+      - "Cortisol Testing": domain-05-hormones-endocrine/cortisol-testing.md
+      - "Progesterone & Relaxin": domain-05-hormones-endocrine/progesterone-relaxin.md
   - "Domain 06 · Biomarkers & Organ Function":
       - domain-06-biomarkers-organ-function/index.md
+      - "SDMA & Kidney Disease": domain-06-biomarkers-organ-function/sdma-kidney-disease.md
+      - "NT-proBNP & Heart Disease": domain-06-biomarkers-organ-function/nt-probnp-heart-disease.md
+      - "CRP & SAA Inflammation": domain-06-biomarkers-organ-function/crp-saa-inflammation.md
   - "Domain 07 · Quality Control & Compliance":
       - domain-07-quality-control-compliance/index.md
+      - "Internal QC Program": domain-07-quality-control-compliance/internal-qc-program.md
+      - "Calibration Verification": domain-07-quality-control-compliance/calibration-verification.md
+      - "ISO9001/GMP & Documentation": domain-07-quality-control-compliance/iso-gmp-documentation.md
   - "Domain 08 · Clinical Application":
       - domain-08-clinical-application/index.md
+      - "POCT Workflow Design": domain-08-clinical-application/poct-workflow-design.md
+      - "Diagnostic Panels": domain-08-clinical-application/diagnostic-panels.md
+      - "Result Interpretation": domain-08-clinical-application/result-interpretation.md
   - "Domain 09 · Industry Knowledge":
       - domain-09-industry-knowledge/index.md
+      - "Veterinary POCT Market": domain-09-industry-knowledge/veterinary-poct-market.md
+      - "Technology Roadmap": domain-09-industry-knowledge/technology-roadmap.md
+      - "Regulatory Landscape": domain-09-industry-knowledge/regulatory-landscape.md
   - "Domain 10 · B2B Resources":
       - domain-10-b2b-resources/index.md
+      - "Partnership Models": domain-10-b2b-resources/partnership-models.md
+      - "Procurement Guide": domain-10-b2b-resources/procurement-guide.md
+      - "OEM/ODM Process": domain-10-b2b-resources/oem-odm-process.md
 
 plugins:
   - search
