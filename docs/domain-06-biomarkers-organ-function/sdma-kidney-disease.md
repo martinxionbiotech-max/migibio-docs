@@ -47,4 +47,19 @@ In cachectic or geriatric patients, creatinine **underestimates** kidney disease
 
 **Does SDMA replace creatinine?** No — they are complementary. SDMA detects early; creatinine contributes to IRIS staging and monitoring.
 
-*For the full data card, see the [Data Hub SDMA card](https://data.migibio.com/biomarkers/sdma/). For validation, see the [Research Center](https://research.migibio.com/biomarkers/).*
+## Case Study: The Geriatric Cat
+
+A 12-year-old domestic shorthair presents for a routine senior wellness screen. No clinical signs; appetite and weight normal.
+
+- **Creatinine: 1.6 mg/dL** (within reference).
+- **SDMA: 16 µg/dL** (borderline; reference 0–14).
+
+**Interpretation:** Creatinine is normal, but SDMA is borderline-elevated — a red flag that GFR may already be reduced. Recheck at 4 weeks: SDMA 19 µg/dL → **IRIS Stage 2** CKD, prompting dietary and monitoring intervention *before* clinical signs.
+
+**Lesson:** SDMA detected kidney disease that creatinine missed — in exactly the patient (geriatric) where early intervention matters most.
+
+## References
+
+1. Rafalska J, Rusiecka A, et al. Serum Creatinine, Cystatin C and Symmetric Dimethylarginine Concentrations and Relationship Between Them in Healthy Small and Miniature Dogs: A Preliminary Study. *Animals (Basel).* 2025;15(2):223. PMID: [41008005](https://pubmed.ncbi.nlm.nih.gov/41008005/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

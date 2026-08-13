@@ -43,4 +43,19 @@ A single positive should be **confirmed** to distinguish persistent from transie
 
 **Should I test kittens?** Yes, but maternal antibodies do not cause p27 positivity — a positive kitten is genuinely infected.
 
-*For the full feline menu, see [Feline Infectious Disease](/domain-04-feline-infectious-disease/).*
+## Case Study: The Shelter Cat
+
+A 2-year-old stray cat is admitted to a shelter. Initial screening:
+
+- **FeLV p27 antigen: positive.**
+- Physical exam: normal; no clinical signs.
+
+**Management:** Per protocol, the positive was **not** treated as a final diagnosis. The cat was retested at 12 weeks — the repeat p27 antigen was **negative**, indicating a transient infection that the cat's immune system cleared.
+
+**Lesson:** A single positive FeLV antigen is a signal to *confirm*, not to euthanize or rehome. Persistent infection is confirmed only by a repeat positive or PCR — this distinction changes outcomes.
+
+## References
+
+1. Giselbrecht J, Jähne S, et al. Evaluation of a Revised Point-of-Care Test for the Detection of Feline Leukaemia p27 Antigen and Anti-p15E Antibodies in Cats. *Viruses.* 2024;16(4):553. PMID: [38675954](https://pubmed.ncbi.nlm.nih.gov/38675954/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

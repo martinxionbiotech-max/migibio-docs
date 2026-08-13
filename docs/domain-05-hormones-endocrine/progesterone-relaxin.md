@@ -47,4 +47,21 @@ Breeding management is **time-critical** — a progesterone result that arrives 
 
 **What sample is used?** Serum for progesterone; serum/plasma for relaxin (assay-dependent).
 
-*For reference ranges, see the [Data Hub](https://data.migibio.com/reference-ranges/). For validation, see the [Research Center](https://research.migibio.com/endocrine/).*
+## Case Study: Timing the Breeding
+
+A breeder presents a 4-year-old bitch in estrus for ovulation timing.
+
+- **Day 6 of estrus: progesterone 1.8 ng/mL** — approaching the LH surge.
+- **Day 8: progesterone 3.2 ng/mL** — ovulation window approaching.
+- **Day 9: progesterone 5.4 ng/mL** — post-ovulation; AI performed.
+
+**Outcome:** A single timed insemination, confirmed by relaxin (> 1.0 ng/mL) at day 28.
+
+**Lesson:** Serial progesterone — with same-day results — is what makes precise breeding management possible. A send-out lab result arriving days later would have missed the window entirely.
+
+## References
+
+1. Østergård Jensen S, Öberg J, et al. Validation of a dry-slide immunoassay for progesterone analysis in canine plasma in a clinical setting. *Vet Clin Pathol.* 2022;51(4):553-560. PMID: [35854401](https://pubmed.ncbi.nlm.nih.gov/35854401/)
+2. Nowak M, Boos A, et al. Luteal and hypophyseal expression of the canine relaxin (RLN) system during pregnancy: Implications for luteotropic function. *PLoS One.* 2018;13(1):e0191374. PMID: [29364921](https://pubmed.ncbi.nlm.nih.gov/29364921/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

@@ -52,4 +52,19 @@ A single basal cortisol value is rarely diagnostic. Cortisol testing is **dynami
 
 **How is treatment monitored?** ACTH stimulation pre- and post-trilostane dosing monitors adrenal suppression.
 
-*For reference ranges, see the [Data Hub](https://data.migibio.com/reference-ranges/).*
+## Case Study: The Polyuric Terrier
+
+A 9-year-old Jack Russell Terrier presents with polyuria/polydipsia, polyphagia, and a pot-bellied appearance.
+
+- **Basal cortisol: 4.5 µg/dL** (non-diagnostic alone).
+- **Low-dose dexamethasone suppression (LDDS):** cortisol fails to suppress at 8 h — consistent with **hyperadrenocorticism (Cushing's)**.
+
+**Management:** Trilostane was initiated; ACTH stimulation pre- and post-dose is used to monitor adrenal suppression and titrate the dose.
+
+**Lesson:** A single cortisol is never diagnostic — the *dynamic* response (suppression or stimulation) carries the diagnosis, which is why timed, same-day cortisol results are clinically essential.
+
+## References
+
+1. Van Liew CH, Greco DS, Salman MD. Comparison of results of adrenocorticotropic hormone stimulation and low-dose dexamethasone suppression tests with necropsy findings in dogs: 81 cases (1985-1995). *J Am Vet Med Assoc.* 1997;211(3):322-325. PMID: [9262671](https://pubmed.ncbi.nlm.nih.gov/9262671/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

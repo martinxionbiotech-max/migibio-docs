@@ -53,4 +53,21 @@ Thyroid testing is the most common endocrine workup in small-animal practice —
 
 **Why do I test T4 and TSH together?** T4 alone cannot distinguish primary hypothyroidism from sick-euthyroid; the paired TSH makes the diagnosis.
 
-*For reference ranges, see the [Data Hub](https://data.migibio.com/reference-ranges/). For validation, see the [Research Center](https://research.migibio.com/endocrine/).*
+## Case Study: The Lethargic Spayed Female
+
+A 6-year-old spayed Labrador presents with lethargy, weight gain, and a thin hair coat. No other systemic illness found.
+
+- **T4: 0.8 µg/dL** (low; reference 1.0–4.0).
+- **TSH: 0.9 ng/mL** (high; reference 0–0.6).
+
+**Interpretation:** Low T4 *plus* high TSH is diagnostic of **primary hypothyroidism**.
+
+**Contrast:** A sick dog (e.g., with pneumonia) may show low T4 with *normal* TSH — euthyroid sick syndrome. The paired TSH is what separates the two.
+
+**Lesson:** Never diagnose hypothyroidism on T4 alone. The T4+TSH pair is the difference between a correct diagnosis and an unnecessary lifetime of supplementation.
+
+## References
+
+1. Van Liew CH, Greco DS, Salman MD. Comparison of results of adrenocorticotropic hormone stimulation and low-dose dexamethasone suppression tests with necropsy findings in dogs: 81 cases (1985-1995). *J Am Vet Med Assoc.* 1997;211(3):322-325. PMID: [9262671](https://pubmed.ncbi.nlm.nih.gov/9262671/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

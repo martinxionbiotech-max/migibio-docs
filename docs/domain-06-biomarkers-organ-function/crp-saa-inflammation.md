@@ -35,4 +35,19 @@ A dog with pancreatitis has CRP 85 mg/L → after 3 days of treatment → CRP 20
 
 **Can CRP/SAA diagnose a specific disease?** No — they indicate inflammation, not the cause. Use with other tests to localize the disease.
 
-*For full data cards, see the [Data Hub CRP](https://data.migibio.com/biomarkers/crp/) and [SAA](https://data.migibio.com/biomarkers/saa/) cards.*
+## Case Study: Monitoring the Pancreatitis Patient
+
+A 7-year-old Schnauzer presents with vomiting and cranial abdominal pain. A presumptive diagnosis of pancreatitis is made.
+
+- **CRP at admission: 85 mg/L** — severe systemic inflammation.
+- **Treatment:** IV fluids, antiemetics, analgesia.
+- **CRP at 48 h: 32 mg/L** — falling, confirming response.
+- **CRP at 96 h: 12 mg/L** — near-normal.
+
+**Lesson:** A qualitative test would have read "positive" every day. Quantitative CRP told the story — the *trend* confirmed the treatment was working before the patient visibly improved.
+
+## References
+
+1. Sänger F, Unterer S, et al. C-reactive protein as a tool for monitoring response to treatment in dogs with acute hemorrhagic diarrhea syndrome. *Front Vet Sci.* 2022;9:1075486. PMID: [36713872](https://pubmed.ncbi.nlm.nih.gov/36713872/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

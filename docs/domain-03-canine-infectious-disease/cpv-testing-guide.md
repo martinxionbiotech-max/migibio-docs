@@ -49,4 +49,19 @@ Modified-live CPV vaccines can produce **transient antigen positivity** for days
 
 **Can a negative rule out CPV?** Not entirely — if clinical suspicion is high, retest; intermittent shedding can yield a false negative.
 
-*For diagnostic accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/). For structured data, see the [Data Hub](https://data.migibio.com/diseases/).*
+## Case Study: The Unvaccinated Puppy
+
+An 8-week-old, unvaccinated Labrador puppy presents with 24 hours of vomiting, profuse watery diarrhea, and lethargy. Temperature 40.1 °C, marked dehydration on exam.
+
+- **CPV antigen (fecal): positive.**
+- **CRP: 62 mg/L** — moderate-severe systemic inflammation.
+
+**Management:** Immediate isolation, intravenous fluid therapy, antiemetics, and supportive care. CRP was repeated at 48 h: 24 mg/L — confirming response to therapy before clinical signs improved.
+
+**Lesson:** A same-visit CPV result enabled isolation and treatment within the hour, and quantitative CRP turned a "positive" into a *monitorable* number.
+
+## References
+
+1. Walter-Weingärtner J, Bergmann M, et al. Overview on utility of in-house tests for detection of systemic infectious diseases in dogs. *Tierarztl Prax Ausg K Kleintiere Heimtiere.* 2024;52(3):161-169. PMID: [38701805](https://pubmed.ncbi.nlm.nih.gov/38701805/)
+
+*For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*
