@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Complete operation guide for the Migibio FIA880 six-channel fluorescence immunoassay analyzer — high-throughput workflow, mixed assays, cloud calibration, and maintenance.">
+        <meta name="description" content="Complete operation guide for the Migibio FIA880 six-channel fluorescence immunoassay analyzer — specifications, detection principle, mixed-assay workflow, data management, maintenance, and troubleshooting.">
       
       
         <meta name="author" content="Guangzhou Magic Biotech Co., Ltd.">
@@ -105,7 +105,7 @@
           "name": "Migibio Clinical & Scientific Affairs",
           "parentOrganization": { "@id": "https://migibio.net/#organization" }
         },
-        "dateModified": "2026-08-13",
+        "dateModified": "2026-08-14",
         "inLanguage": "en"
       }
     ]
@@ -465,6 +465,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#detection-principle" class="md-nav__link">
+    Detection Principle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#key-advantage-mixed-assays" class="md-nav__link">
     Key Advantage: Mixed Assays
   </a>
@@ -479,6 +486,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#sample-requirements" class="md-nav__link">
+    Sample Requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-management-connectivity" class="md-nav__link">
+    Data Management &amp; Connectivity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#when-to-choose-the-fia880" class="md-nav__link">
     When to Choose the FIA880
   </a>
@@ -488,6 +509,13 @@
         <li class="md-nav__item">
   <a href="#maintenance-schedule" class="md-nav__link">
     Maintenance Schedule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#troubleshooting" class="md-nav__link">
+    Troubleshooting
   </a>
   
 </li>
@@ -1558,6 +1586,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#detection-principle" class="md-nav__link">
+    Detection Principle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#key-advantage-mixed-assays" class="md-nav__link">
     Key Advantage: Mixed Assays
   </a>
@@ -1572,6 +1607,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#sample-requirements" class="md-nav__link">
+    Sample Requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-management-connectivity" class="md-nav__link">
+    Data Management &amp; Connectivity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#when-to-choose-the-fia880" class="md-nav__link">
     When to Choose the FIA880
   </a>
@@ -1581,6 +1630,13 @@
         <li class="md-nav__item">
   <a href="#maintenance-schedule" class="md-nav__link">
     Maintenance Schedule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#troubleshooting" class="md-nav__link">
+    Troubleshooting
   </a>
   
 </li>
@@ -1619,6 +1675,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Detection method</td>
+<td>Fluorescence immunochromatography (FICT), quantitative</td>
+</tr>
+<tr>
 <td>Channels</td>
 <td>Six</td>
 </tr>
@@ -1631,11 +1691,11 @@
 <td>Serum, plasma, whole blood</td>
 </tr>
 <tr>
-<td>Excitation</td>
+<td>Excitation source</td>
 <td>LED</td>
 </tr>
 <tr>
-<td>Detection</td>
+<td>Detector</td>
 <td>Photodiode / PMT</td>
 </tr>
 <tr>
@@ -1650,18 +1710,105 @@
 <td>Output</td>
 <td>Concentration + qualitative flag</td>
 </tr>
+<tr>
+<td>Data management</td>
+<td>Result storage, print, export</td>
+</tr>
+<tr>
+<td>Connectivity</td>
+<td>Cloud sync + USB (LIS/export via supported interface)</td>
+</tr>
 </tbody>
 </table>
+<h2 id="detection-principle">Detection Principle<a class="headerlink" href="#detection-principle" title="Permanent link">&para;</a></h2>
+<p>The FIA880 quantifies fluorescence from each cartridge using the same FICT principle as the FIA680, but across six independent channels:</p>
+<ol>
+<li><strong>Excitation</strong> — each channel's LED illuminates the test line at the fluorophore's excitation wavelength.</li>
+<li><strong>Emission</strong> — the bound fluorescent label emits light at a longer wavelength.</li>
+<li><strong>Detection</strong> — a photodiode (or PMT, channel-dependent) measures emitted fluorescence intensity.</li>
+<li><strong>Quantification</strong> — fluorescence intensity is converted to concentration via the assay's standard curve.</li>
+</ol>
+<p>The six channels operate independently, so different assays with different curves can run in the same cycle.</p>
 <h2 id="key-advantage-mixed-assays">Key Advantage: Mixed Assays<a class="headerlink" href="#key-advantage-mixed-assays" title="Permanent link">&para;</a></h2>
-<p>The six channels run <strong>different assays simultaneously</strong> — for example, a dyspnea workup can run NT-proBNP, CRP, and a chemistry marker in a single run, cutting total turnaround time.</p>
+<p>The six channels run <strong>different assays simultaneously</strong>. Example clinical applications:</p>
+<table>
+<thead>
+<tr>
+<th>Clinical scenario</th>
+<th>Assays run in one cycle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dyspnea workup</td>
+<td>NT-proBNP + CRP + cardiac panel</td>
+</tr>
+<tr>
+<td>Pre-anesthetic screen</td>
+<td>Renal (SDMA) + liver + inflammatory markers</td>
+</tr>
+<tr>
+<td>Breeder / fertility</td>
+<td>Progesterone + relaxin</td>
+</tr>
+<tr>
+<td>Infectious panel</td>
+<td>CPV + CDV + CCV (+ antibodies)</td>
+</tr>
+</tbody>
+</table>
+<p>Running a panel in one cycle cuts total turnaround time versus sequential single-channel testing.</p>
 <h2 id="operation-workflow">Operation Workflow<a class="headerlink" href="#operation-workflow" title="Permanent link">&para;</a></h2>
 <ol>
 <li><strong>Prepare cartridges</strong> for each assay (up to six).</li>
-<li><strong>Apply samples</strong> to each cartridge.</li>
+<li><strong>Apply samples</strong> to each cartridge at the indicated volume.</li>
 <li><strong>Load cartridges</strong> into the six channels.</li>
 <li><strong>Cloud sync</strong> loads the standard curve for each assay automatically.</li>
 <li><strong>Read results</strong> — all six reported in the same cycle.</li>
 </ol>
+<h2 id="sample-requirements">Sample Requirements<a class="headerlink" href="#sample-requirements" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Consideration</th>
+<th>Guidance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sample type</td>
+<td>Serum, plasma, or whole blood (assay-dependent)</td>
+</tr>
+<tr>
+<td>Hemolysis</td>
+<td>Avoid grossly hemolyzed samples — may affect optical readout</td>
+</tr>
+<tr>
+<td>Lipemia</td>
+<td>Avoid grossly lipemic samples for optical assays</td>
+</tr>
+<tr>
+<td>Bubbles</td>
+<td>Remove air bubbles before applying sample</td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>Use the exact volume stated in the IFU</td>
+</tr>
+<tr>
+<td>Freshness</td>
+<td>Test promptly; refer to IFU for stability limits</td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-management-connectivity">Data Management &amp; Connectivity<a class="headerlink" href="#data-management-connectivity" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Cloud sync</strong> — standard curves and (where enabled) results sync over the network.</li>
+<li><strong>Result storage</strong> — the analyzer retains recent test records.</li>
+<li><strong>Printing</strong> — results print for the patient record.</li>
+<li><strong>Export</strong> — records export via USB for integration with practice records.</li>
+<li><strong>Traceability</strong> — each result links to the assay lot and standard curve used.</li>
+</ul>
 <h2 id="when-to-choose-the-fia880">When to Choose the FIA880<a class="headerlink" href="#when-to-choose-the-fia880" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>High-volume clinics</strong> and reference-style in-house labs.</li>
@@ -1674,30 +1821,78 @@
 <tr>
 <th>Item</th>
 <th>Frequency</th>
+<th>Purpose</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>QC cartridge verification</td>
 <td>Daily (or per IFU)</td>
+<td>Confirm each channel reads the expected control value</td>
 </tr>
 <tr>
-<td>Optical path cleaning</td>
+<td>Optical path / window cleaning</td>
 <td>Weekly</td>
+<td>Prevent dust from degrading signal</td>
 </tr>
 <tr>
 <td>Cloud curve sync</td>
 <td>Automatic (per assay lot)</td>
+<td>Ensure correct curves are loaded</td>
 </tr>
 <tr>
-<td>Full calibration</td>
+<td>Full calibration / service</td>
 <td>Per service schedule</td>
+<td>Manufacturer service</td>
+</tr>
+</tbody>
+</table>
+<h2 id="troubleshooting">Troubleshooting<a class="headerlink" href="#troubleshooting" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>Likely cause</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No result (one channel)</td>
+<td>Cartridge not fully seated</td>
+<td>Re-insert cartridge</td>
+</tr>
+<tr>
+<td>Error code</td>
+<td>Insufficient sample volume</td>
+<td>Repeat with a fresh cartridge</td>
+</tr>
+<tr>
+<td>Drifting results</td>
+<td>Dirty optical window</td>
+<td>Clean the optical path</td>
+</tr>
+<tr>
+<td>Failed QC</td>
+<td>QC cartridge expired or mishandled</td>
+<td>Use a fresh QC cartridge</td>
+</tr>
+<tr>
+<td>Curve sync error</td>
+<td>Network unavailable</td>
+<td>Use pre-loaded offline curve (per configuration)</td>
+</tr>
+<tr>
+<td>High background</td>
+<td>Sample interference (hemolysis/lipemia)</td>
+<td>Re-collect or clarify sample</td>
 </tr>
 </tbody>
 </table>
 <h2 id="faq">FAQ<a class="headerlink" href="#faq" title="Permanent link">&para;</a></h2>
 <p><strong>Can I run six of the same assay at once?</strong> Yes — all six channels can run the same assay for batch throughput, or six different assays for panel testing.</p>
 <p><strong>Is cloud sync required for operation?</strong> Cloud sync streamlines curve updates, but pre-loaded curves remain available offline. See the IFU for your configuration.</p>
+<p><strong>How does the FIA880 differ from the FIA680?</strong> FIA880 adds six-channel parallelism and cloud curve sync; see <a href="/domain-01-analyzer-technology/">Analyzer Technology</a>.</p>
 <p><em>For a side-by-side comparison, see <a href="/domain-01-analyzer-technology/">Analyzer Technology</a>. For benchmarks, see the <a href="https://data.migibio.net/analyzer-comparison/">Data Hub</a>.</em></p>
 
               
@@ -1712,7 +1907,7 @@
   <div class="md-source-file" style="margin-top:2.5rem;padding:1rem 1.25rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.8rem;color:var(--md-default-fg-color--light);">
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Authored by:</strong> Migibio Clinical &amp; Scientific Affairs, Guangzhou Magic Biotech Co., Ltd.</p>
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Reviewed by:</strong> Migibio R&amp;D Quality Committee</p>
-    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-13</p>
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-14</p>
     <p style="margin:0;"><em>Disclosure: Migibio (Guangzhou Magic Biotech Co., Ltd.) is the manufacturer of the FIA680/FIA880 analyzers and FICT reagents referenced in this content. See our <a href="https://docs.migibio.net/editorial-policy/">Editorial &amp; Review Policy</a>.</em></p>
   </div>
   <div style="margin-top:1rem;padding:0.9rem 1.1rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.82rem;color:var(--md-default-fg-color);">

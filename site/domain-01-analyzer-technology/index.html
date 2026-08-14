@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Technical specifications, operation, calibration, and maintenance of the Migibio FIA680 and FIA880 immunofluorescence quantitative analyzers.">
+        <meta name="description" content="Technical specifications, fluorescence detection principle, operation, calibration, and maintenance of the Migibio FIA680 and FIA880 immunofluorescence quantitative analyzers.">
       
       
         <meta name="author" content="Guangzhou Magic Biotech Co., Ltd.">
@@ -105,7 +105,7 @@
           "name": "Migibio Clinical & Scientific Affairs",
           "parentOrganization": { "@id": "https://migibio.net/#organization" }
         },
-        "dateModified": "2026-08-13",
+        "dateModified": "2026-08-14",
         "inLanguage": "en"
       }
     ]
@@ -1475,6 +1475,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#how-fluorescence-detection-works" class="md-nav__link">
+    How Fluorescence Detection Works
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#analyzer-comparison" class="md-nav__link">
     Analyzer Comparison
   </a>
@@ -1519,6 +1526,18 @@
 
 <h1 id="analyzer-technology">Analyzer Technology<a class="headerlink" href="#analyzer-technology" title="Permanent link">&para;</a></h1>
 <p>The FIA680 and FIA880 are dedicated fluorescence immunoassay analyzers that read Migibio FICT test cartridges and convert fluorescence signal into quantitative concentration results.</p>
+<h2 id="how-fluorescence-detection-works">How Fluorescence Detection Works<a class="headerlink" href="#how-fluorescence-detection-works" title="Permanent link">&para;</a></h2>
+<p>FICT (Fluorescence Immunochromatographic Technology) is instrument-read, not visually read:</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>LED excitation → fluorophore emission → photodetector → fluorescence intensity
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>→ standard curve → concentration
+</code></pre></div>
+<ol>
+<li><strong>Excitation</strong> — an LED excites the fluorophore bound to the detection antibody at the test line.</li>
+<li><strong>Emission</strong> — the fluorophore emits light at a longer wavelength (Stokes shift).</li>
+<li><strong>Detection</strong> — a photodiode (or PMT) measures the emitted light intensity.</li>
+<li><strong>Quantification</strong> — intensity maps to analyte concentration via the pre-loaded standard curve.</li>
+</ol>
+<p>This is fundamentally different from colloidal-gold (visual) strips: <strong>fluorescence intensity is measured quantitatively</strong>, giving concentration values rather than a "line present / absent" judgment.</p>
 <h2 id="analyzer-comparison">Analyzer Comparison<a class="headerlink" href="#analyzer-comparison" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -1603,6 +1622,7 @@
 <p><strong>Do I need to build a standard curve manually?</strong> No — curves are pre-loaded via QR code or cloud sync.</p>
 <p><strong>Can I run different assays simultaneously?</strong> On FIA880 yes (six channels, mixed assays); FIA680 is single-channel.</p>
 <p><strong>What samples are accepted?</strong> Serum, plasma, and whole blood (assay-dependent).</p>
+<p><strong>Why is fluorescence better than visual (colloidal gold) reading?</strong> Fluorescence gives quantitative concentrations (pg/ml sensitivity, CV% &lt; 10%), while visual strips are qualitative and operator-dependent. See <a href="/domain-02-detection-principles/quantitative-vs-qualitative/">Quantitative vs Qualitative</a>.</p>
 <p><em>For assay performance data, see the <a href="https://data.migibio.net/analyzer-comparison/">Data Hub</a>.</em></p>
 
               
@@ -1617,7 +1637,7 @@
   <div class="md-source-file" style="margin-top:2.5rem;padding:1rem 1.25rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.8rem;color:var(--md-default-fg-color--light);">
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Authored by:</strong> Migibio Clinical &amp; Scientific Affairs, Guangzhou Magic Biotech Co., Ltd.</p>
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Reviewed by:</strong> Migibio R&amp;D Quality Committee</p>
-    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-13</p>
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-14</p>
     <p style="margin:0;"><em>Disclosure: Migibio (Guangzhou Magic Biotech Co., Ltd.) is the manufacturer of the FIA680/FIA880 analyzers and FICT reagents referenced in this content. See our <a href="https://docs.migibio.net/editorial-policy/">Editorial &amp; Review Policy</a>.</em></p>
   </div>
   <div style="margin-top:1rem;padding:0.9rem 1.1rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.82rem;color:var(--md-default-fg-color);">

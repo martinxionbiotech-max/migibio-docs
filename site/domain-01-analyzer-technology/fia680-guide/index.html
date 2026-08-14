@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Complete operation guide for the Migibio FIA680 single-channel fluorescence immunoassay analyzer — workflow, sample types, calibration, maintenance, and troubleshooting.">
+        <meta name="description" content="Complete operation guide for the Migibio FIA680 single-channel fluorescence immunoassay analyzer — specifications, detection principle, workflow, sample requirements, data management, maintenance, and troubleshooting.">
       
       
         <meta name="author" content="Guangzhou Magic Biotech Co., Ltd.">
@@ -105,7 +105,7 @@
           "name": "Migibio Clinical & Scientific Affairs",
           "parentOrganization": { "@id": "https://migibio.net/#organization" }
         },
-        "dateModified": "2026-08-13",
+        "dateModified": "2026-08-14",
         "inLanguage": "en"
       }
     ]
@@ -451,8 +451,29 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#detection-principle" class="md-nav__link">
+    Detection Principle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#operation-workflow" class="md-nav__link">
     Operation Workflow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sample-requirements" class="md-nav__link">
+    Sample Requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-management-connectivity" class="md-nav__link">
+    Data Management &amp; Connectivity
   </a>
   
 </li>
@@ -1558,8 +1579,29 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#detection-principle" class="md-nav__link">
+    Detection Principle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#operation-workflow" class="md-nav__link">
     Operation Workflow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sample-requirements" class="md-nav__link">
+    Sample Requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-management-connectivity" class="md-nav__link">
+    Data Management &amp; Connectivity
   </a>
   
 </li>
@@ -1619,6 +1661,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Detection method</td>
+<td>Fluorescence immunochromatography (FICT), quantitative</td>
+</tr>
+<tr>
 <td>Channels</td>
 <td>Single</td>
 </tr>
@@ -1631,11 +1677,11 @@
 <td>Serum, plasma, whole blood</td>
 </tr>
 <tr>
-<td>Excitation</td>
+<td>Excitation source</td>
 <td>LED</td>
 </tr>
 <tr>
-<td>Detection</td>
+<td>Detector</td>
 <td>Photodiode</td>
 </tr>
 <tr>
@@ -1650,8 +1696,25 @@
 <td>Output</td>
 <td>Concentration + qualitative flag</td>
 </tr>
+<tr>
+<td>Data management</td>
+<td>Result storage, print, export</td>
+</tr>
+<tr>
+<td>Connectivity</td>
+<td>USB (LIS/export via supported interface)</td>
+</tr>
 </tbody>
 </table>
+<h2 id="detection-principle">Detection Principle<a class="headerlink" href="#detection-principle" title="Permanent link">&para;</a></h2>
+<p>The FIA680 quantifies fluorescence from the test cartridge:</p>
+<ol>
+<li><strong>Excitation</strong> — an LED illuminates the test line at the fluorophore's excitation wavelength.</li>
+<li><strong>Emission</strong> — the bound fluorescent label emits light at a longer wavelength.</li>
+<li><strong>Detection</strong> — a photodiode measures the emitted fluorescence intensity.</li>
+<li><strong>Quantification</strong> — the instrument converts fluorescence intensity to analyte concentration via the pre-loaded standard curve.</li>
+</ol>
+<p>Because the readout is fluorescence intensity (not visual line darkness), results are quantitative and reproducible — the basis for CV% below 10%.</p>
 <h2 id="operation-workflow">Operation Workflow<a class="headerlink" href="#operation-workflow" title="Permanent link">&para;</a></h2>
 <ol>
 <li><strong>Collect sample</strong> — serum, plasma, or whole blood per the assay IFU.</li>
@@ -1660,6 +1723,48 @@
 <li><strong>Scan the QR code</strong> (or select the assay) to load the standard curve.</li>
 <li><strong>Read result</strong> — the analyzer displays concentration + a qualitative flag.</li>
 </ol>
+<h2 id="sample-requirements">Sample Requirements<a class="headerlink" href="#sample-requirements" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Consideration</th>
+<th>Guidance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sample type</td>
+<td>Serum, plasma, or whole blood (assay-dependent)</td>
+</tr>
+<tr>
+<td>Hemolysis</td>
+<td>Avoid grossly hemolyzed samples — may affect optical readout</td>
+</tr>
+<tr>
+<td>Lipemia</td>
+<td>Avoid grossly lipemic samples for optical assays</td>
+</tr>
+<tr>
+<td>Bubbles</td>
+<td>Remove air bubbles before applying sample</td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>Use the exact volume stated in the IFU</td>
+</tr>
+<tr>
+<td>Freshness</td>
+<td>Test promptly; refer to IFU for stability limits</td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-management-connectivity">Data Management &amp; Connectivity<a class="headerlink" href="#data-management-connectivity" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Result storage</strong> — the analyzer retains recent test records for audit and review.</li>
+<li><strong>Printing</strong> — results can be printed for the patient record.</li>
+<li><strong>Export</strong> — records export via USB for integration with practice records.</li>
+<li><strong>Traceability</strong> — each result is linked to the assay lot and standard curve used.</li>
+</ul>
 <h2 id="when-to-choose-the-fia680">When to Choose the FIA680<a class="headerlink" href="#when-to-choose-the-fia680" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Low-volume clinics</strong> running a handful of tests per day.</li>
@@ -1672,24 +1777,29 @@
 <tr>
 <th>Item</th>
 <th>Frequency</th>
+<th>Purpose</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>QC cartridge verification</td>
 <td>Daily (or per IFU)</td>
+<td>Confirm the analyzer reads the expected control value</td>
 </tr>
 <tr>
-<td>Optical path cleaning</td>
+<td>Optical path / window cleaning</td>
 <td>Weekly</td>
+<td>Prevent dust from degrading signal</td>
 </tr>
 <tr>
 <td>Standard-curve update</td>
 <td>Via QR code (per assay lot)</td>
+<td>Ensure the correct curve is loaded</td>
 </tr>
 <tr>
-<td>Full calibration</td>
+<td>Full calibration / service</td>
 <td>Per service schedule</td>
+<td>Manufacturer service</td>
 </tr>
 </tbody>
 </table>
@@ -1698,31 +1808,47 @@
 <thead>
 <tr>
 <th>Symptom</th>
-<th>Likely Cause</th>
+<th>Likely cause</th>
 <th>Action</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>No result</td>
-<td>Cartridge not seated</td>
+<td>Cartridge not fully seated</td>
 <td>Re-insert cartridge</td>
 </tr>
 <tr>
 <td>Error code</td>
 <td>Insufficient sample volume</td>
-<td>Repeat with fresh cartridge</td>
+<td>Repeat with a fresh cartridge</td>
 </tr>
 <tr>
 <td>Drifting results</td>
-<td>Dirty optical path</td>
-<td>Clean optical path</td>
+<td>Dirty optical window</td>
+<td>Clean the optical path</td>
+</tr>
+<tr>
+<td>Failed QC</td>
+<td>QC cartridge expired or mishandled</td>
+<td>Use a fresh QC cartridge</td>
+</tr>
+<tr>
+<td>Curve load error</td>
+<td>QR code unreadable / wrong assay</td>
+<td>Re-scan; confirm assay selection</td>
+</tr>
+<tr>
+<td>High background</td>
+<td>Sample interference (hemolysis/lipemia)</td>
+<td>Re-collect or clarify sample</td>
 </tr>
 </tbody>
 </table>
 <h2 id="faq">FAQ<a class="headerlink" href="#faq" title="Permanent link">&para;</a></h2>
 <p><strong>Can the FIA680 run mixed assays?</strong> No — it is single-channel. For mixed simultaneous assays, use the <a href="/domain-01-analyzer-technology/fia880-guide/">FIA880</a>.</p>
 <p><strong>Do I need to build a standard curve manually?</strong> No — curves are pre-loaded via QR code; the operator never manually constructs one.</p>
+<p><strong>What is the difference between FIA680 and FIA880?</strong> FIA680 is single-channel (one test at a time); FIA880 has six channels for parallel runs. See <a href="/domain-01-analyzer-technology/">Analyzer Technology</a>.</p>
 <p><em>For a side-by-side comparison, see <a href="/domain-01-analyzer-technology/">Analyzer Technology</a>. For structured benchmarks, see the <a href="https://data.migibio.net/analyzer-comparison/">Data Hub</a>.</em></p>
 
               
@@ -1737,7 +1863,7 @@
   <div class="md-source-file" style="margin-top:2.5rem;padding:1rem 1.25rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.8rem;color:var(--md-default-fg-color--light);">
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Authored by:</strong> Migibio Clinical &amp; Scientific Affairs, Guangzhou Magic Biotech Co., Ltd.</p>
     <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Reviewed by:</strong> Migibio R&amp;D Quality Committee</p>
-    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-13</p>
+    <p style="margin:0 0 .35rem;"><strong style="color:var(--md-default-fg-color);">Last updated:</strong> 2026-08-14</p>
     <p style="margin:0;"><em>Disclosure: Migibio (Guangzhou Magic Biotech Co., Ltd.) is the manufacturer of the FIA680/FIA880 analyzers and FICT reagents referenced in this content. See our <a href="https://docs.migibio.net/editorial-policy/">Editorial &amp; Review Policy</a>.</em></p>
   </div>
   <div style="margin-top:1rem;padding:0.9rem 1.1rem;border-top:1px solid var(--md-default-fg-color--lightest);font-size:0.82rem;color:var(--md-default-fg-color);">
