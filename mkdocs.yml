@@ -97,6 +97,12 @@ nav:
       - "Partnership Models": domain-10-b2b-resources/partnership-models.md
       - "Procurement Guide": domain-10-b2b-resources/procurement-guide.md
       - "OEM/ODM Process": domain-10-b2b-resources/oem-odm-process.md
+  - "Domain 11 · Manufacturing & Production":
+      - domain-11-manufacturing-production/index.md
+      - "FICT Test Strip Production Process": domain-11-manufacturing-production/production-process.md
+      - "Raw Materials & Supply Chain": domain-11-manufacturing-production/raw-materials-supply.md
+      - "In-Process Quality Control": domain-11-manufacturing-production/in-process-quality-control.md
+      - "Batch Release & Traceability": domain-11-manufacturing-production/batch-release-traceability.md
 
 plugins:
   - search

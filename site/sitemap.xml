@@ -211,6 +211,31 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.migibio.net/domain-11-manufacturing-production/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.migibio.net/domain-11-manufacturing-production/batch-release-traceability/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.migibio.net/domain-11-manufacturing-production/in-process-quality-control/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.migibio.net/domain-11-manufacturing-production/production-process/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.migibio.net/domain-11-manufacturing-production/raw-materials-supply/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.migibio.net/editorial-policy/</loc>
          <lastmod>2026-08-14</lastmod>
          <changefreq>daily</changefreq>

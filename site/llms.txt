@@ -27,6 +27,7 @@ Migibio is an ISO9001/GMP-certified manufacturer of point-of-care (POCT) veterin
 - [Domain 08 · Clinical Application](https://docs.migibio.net/domain-08-clinical-application/) — POCT workflow, interpretation, cases
 - [Domain 09 · Industry Knowledge](https://docs.migibio.net/domain-09-industry-knowledge/) — market, regulation, technology roadmap
 - [Domain 10 · B2B Resources](https://docs.migibio.net/domain-10-b2b-resources/) — procurement, OEM/ODM, distributor support
+- [Domain 11 · Manufacturing & Production](https://docs.migibio.net/domain-11-manufacturing-production/) — production process, raw materials, in-process QC, batch release
 
 ## Related Sites
 

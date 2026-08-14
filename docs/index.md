@@ -10,7 +10,7 @@ Welcome to the official technical knowledge base of **Migibio** (Guangzhou Magic
 
 This knowledge base is the authoritative reference for veterinarians, laboratory professionals, and distributors who use Migibio products. It answers *what our technology is*, *how it works*, and *how to use it correctly*.
 
-## The Ten Domains
+## The Eleven Domains
 
 | Domain | Topic |
 |--------|-------|
@@ -24,6 +24,7 @@ This knowledge base is the authoritative reference for veterinarians, laboratory
 | 08 | Clinical Application — POCT workflow, interpretation, cases |
 | 09 | Industry Knowledge — market, regulation, technology roadmap |
 | 10 | B2B Resources — procurement, OEM/ODM, distributor support |
+| 11 | Manufacturing & Production — process, raw materials, in-process QC, batch release |
 
 ## About Migibio
 
