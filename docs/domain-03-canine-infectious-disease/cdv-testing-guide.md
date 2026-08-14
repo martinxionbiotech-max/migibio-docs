@@ -96,7 +96,8 @@ A 3-month-old, unvaccinated mixed-breed puppy from a rescue group presents with 
 
 ## References
 
-1. Greene CE. *Infectious Diseases of the Dog and Cat.* 4th ed. Elsevier; 2012. (Canine distemper chapter)
-2. Day MJ, Horzinek MC, Schultz RD, Squires RA. WSAVA Guidelines for the vaccination of dogs and cats. *J Small Anim Pract.* 2016.
+1. Sarchahi AA, Arbabi M, Mohebalian H. Detection of canine distemper virus in cerebrospinal fluid, whole blood and mucosal specimens of dogs with distemper using RT-PCR and immunochromatographic assays. *Vet Med Sci.* 2022;8(4):1390-1399. PMID: [35363942](https://pubmed.ncbi.nlm.nih.gov/35363942/)
+2. Greene CE. *Infectious Diseases of the Dog and Cat.* 4th ed. Elsevier; 2012. (Canine distemper chapter)
+3. Day MJ, Horzinek MC, Schultz RD, Squires RA. WSAVA Guidelines for the vaccination of dogs and cats. *J Small Anim Pract.* 2016.
 
 *For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

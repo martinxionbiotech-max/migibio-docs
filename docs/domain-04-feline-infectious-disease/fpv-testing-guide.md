@@ -87,7 +87,8 @@ A 10-week-old kitten in a multi-cat household presents acutely with vomiting, pr
 
 ## References
 
-1. European Advisory Board on Cat Diseases (ABCD). Feline Panleukopenia — Guidelines. [abcdcatsvets.org](https://www.abcdcatsvets.org/)
-2. Greene CE. *Infectious Diseases of the Dog and Cat.* 4th ed. Elsevier; 2012. (Parvoviruses chapter)
+1. Barrs VR. Feline Panleukopenia: A Re-emergent Disease. *Vet Clin North Am Small Anim Pract.* 2019;49(4):651-670. PMID: [30967253](https://pubmed.ncbi.nlm.nih.gov/30967253/)
+2. European Advisory Board on Cat Diseases (ABCD). Feline Panleukopenia — Guidelines. [abcdcatsvets.org](https://www.abcdcatsvets.org/)
+3. Greene CE. *Infectious Diseases of the Dog and Cat.* 4th ed. Elsevier; 2012. (Parvoviruses chapter)
 
 *For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*

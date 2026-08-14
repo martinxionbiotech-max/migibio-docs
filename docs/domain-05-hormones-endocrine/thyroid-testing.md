@@ -68,6 +68,6 @@ A 6-year-old spayed Labrador presents with lethargy, weight gain, and a thin hai
 
 ## References
 
-1. Van Liew CH, Greco DS, Salman MD. Comparison of results of adrenocorticotropic hormone stimulation and low-dose dexamethasone suppression tests with necropsy findings in dogs: 81 cases (1985-1995). *J Am Vet Med Assoc.* 1997;211(3):322-325. PMID: [9262671](https://pubmed.ncbi.nlm.nih.gov/9262671/)
+1. Strey S, Mischke R, Rieder J. Hypothyroidism in dogs: an overview. *Tierarztl Prax Ausg K Kleintiere Heimtiere.* 2021;49(3):195-205. PMID: [34157761](https://pubmed.ncbi.nlm.nih.gov/34157761/)
 
 *For the review policy, see the [Editorial & Review Policy](/editorial-policy/).*
