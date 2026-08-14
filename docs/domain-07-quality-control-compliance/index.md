@@ -31,6 +31,12 @@ description: "Quality control, calibration, regulatory compliance, and documenta
 | **ISO9001** | Quality management system |
 | **GMP** | Good manufacturing practice |
 
+## Explore This Domain
+
+- [Internal QC Program](/domain-07-quality-control-compliance/internal-qc-program/) — daily QC routine and failure handling
+- [Calibration Verification](/domain-07-quality-control-compliance/calibration-verification/) — confirming the analyzer reads correctly
+- [ISO9001/GMP & Documentation](/domain-07-quality-control-compliance/iso-gmp-documentation/) — the compliance framework
+
 ## FAQ
 
 **How often should I run internal QC?** Daily, or per the assay IFU — at minimum when opening a new reagent lot.

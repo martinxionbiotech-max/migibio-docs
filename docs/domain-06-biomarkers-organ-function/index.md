@@ -33,6 +33,12 @@ description: "Organ-function and inflammatory biomarkers — SDMA, cystatin C, N
 | 900–1800 | Grey zone — echo |
 | > 1800 | Significant heart disease |
 
+## Explore This Domain
+
+- [SDMA & Kidney Disease](/domain-06-biomarkers-organ-function/sdma-kidney-disease/) — early CKD detection and IRIS staging
+- [NT-proBNP & Heart Disease](/domain-06-biomarkers-organ-function/nt-probnp-heart-disease/) — cardiac vs non-cardiac dyspnea
+- [CRP & SAA Inflammation](/domain-06-biomarkers-organ-function/crp-saa-inflammation/) — inflammatory monitoring
+
 ## FAQ
 
 **Which biomarker for early kidney disease?** SDMA — rises at ~40% GFR loss, earlier than creatinine, and is unaffected by muscle mass.

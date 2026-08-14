@@ -26,6 +26,12 @@ FeLV antigen and FIV antibody are the standard screening tests for new cats, sic
 | FeLV Ag | Active infection | Confirm with second method |
 | FIV Ab | Exposure/infection | Kittens retest after 6 mo |
 
+## Explore This Domain
+
+- [FPV Testing Guide](/domain-04-feline-infectious-disease/fpv-testing-guide/) — panleukopenia detection, interpretation, case study
+- [FeLV Testing Guide](/domain-04-feline-infectious-disease/felv-testing-guide/) — p27 antigen, confirmation protocol
+- [FIV Testing Guide](/domain-04-feline-infectious-disease/fiv-testing-guide/) — antibody detection, maternal-antibody caveats
+
 ## FAQ
 
 **Which cats should be screened?** New adoptions, outdoor cats, sick cats, and before FeLV vaccination.

@@ -41,6 +41,12 @@ Patient presents → sample collection → FICT test (3–15 min) → result →
 | Lipemia | Fast patient; follow IFU |
 | Hook effect (very high analyte) | Dilute and retest |
 
+## Explore This Domain
+
+- [POCT Workflow Design](/domain-08-clinical-application/poct-workflow-design/) — same-visit testing workflows
+- [Diagnostic Panels](/domain-08-clinical-application/diagnostic-panels/) — panels by clinical presentation
+- [Result Interpretation](/domain-08-clinical-application/result-interpretation/) — a systematic interpretation framework
+
 ## FAQ
 
 **How do I interpret a borderline result?** Compare to the grey zone, correlate clinically, and recheck in 2–4 weeks where indicated.

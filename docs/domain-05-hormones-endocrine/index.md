@@ -37,6 +37,12 @@ Progesterone is the gold standard for ovulation timing. Serial measurement every
 | 2–5 | Ovulation window (breed/AI) |
 | > 5 | Post-ovulation |
 
+## Explore This Domain
+
+- [Thyroid Testing (T4/TSH)](/domain-05-hormones-endocrine/thyroid-testing/) — hypothyroidism vs euthyroid sick
+- [Cortisol Testing](/domain-05-hormones-endocrine/cortisol-testing/) — Cushing's and Addison's
+- [Progesterone & Relaxin](/domain-05-hormones-endocrine/progesterone-relaxin/) — ovulation timing and pregnancy
+
 ## FAQ
 
 **Why test T4 and TSH together?** To differentiate primary hypothyroidism (low T4 + high TSH) from euthyroid sick syndrome (low T4 + normal TSH).

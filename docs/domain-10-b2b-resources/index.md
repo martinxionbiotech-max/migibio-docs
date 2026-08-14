@@ -31,6 +31,12 @@ description: "Resources for distributors and partners — procurement, OEM/ODM, 
 | Validation & regulatory | Varies |
 | Mass production | 4–8 weeks |
 
+## Explore This Domain
+
+- [Partnership Models](/domain-10-b2b-resources/partnership-models/) — distributor, OEM, ODM
+- [Procurement Guide](/domain-10-b2b-resources/procurement-guide/) — how to evaluate a POCT system
+- [OEM/ODM Process](/domain-10-b2b-resources/oem-odm-process/) — from inquiry to product
+
 ## FAQ
 
 **What is the MOQ?** Analyzers from low volume; assays from 500–1000 tests depending on type.

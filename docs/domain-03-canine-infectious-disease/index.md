@@ -26,6 +26,12 @@ CPV is the highest-volume canine infectious-disease test. Rapid antigen detectio
 | Antigen positive + clinical signs | High confidence infection |
 | Antigen negative | Retest if clinical suspicion high |
 
+## Explore This Domain
+
+- [CPV Testing Guide](/domain-03-canine-infectious-disease/cpv-testing-guide/) — when to test, antigen vs antibody, interpretation, case study
+- [CDV Testing Guide](/domain-03-canine-infectious-disease/cdv-testing-guide/) — detection strategy, sample selection, prognosis
+- [CCV, CAV & Other Pathogens](/domain-03-canine-infectious-disease/other-canine-pathogens/) — coronavirus, adenovirus, Leishmania, Toxoplasma
+
 ## FAQ
 
 **When should I test for CPV?** Any puppy with acute vomiting/diarrhea, lethargy, or anorexia — especially unvaccinated.

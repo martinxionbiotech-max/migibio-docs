@@ -27,6 +27,12 @@ FICT is a quantitative lateral-flow immunoassay. A fluorophore-labeled detection
 | Throughput | On-site | Lab batch | Lab batch |
 | CV% | < 10% | < 10% | < 5% (Ct) |
 
+## Explore This Domain
+
+- [How FICT Works](/domain-02-detection-principles/fict-principle/) — the sandwich immunoassay mechanism
+- [Quantitative vs Qualitative](/domain-02-detection-principles/quantitative-vs-qualitative/) — why instrument-read beats visual
+- [Understanding LOD/LOQ/CV%](/domain-02-detection-principles/understanding-lod-cv/) — the key analytical parameters
+
 ## FAQ
 
 **Why fluorescence instead of colloidal gold?** Fluorescence is instrument-read (objective) and linearly proportional to concentration over a wide range — enabling true quantitation, unlike visual gold readout.

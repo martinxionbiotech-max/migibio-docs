@@ -31,6 +31,12 @@ description: "Industry context — the veterinary POCT market, regulatory landsc
 | US | FDA veterinary device regulations |
 | China | NMPA IVD registration |
 
+## Explore This Domain
+
+- [Veterinary POCT Market](/domain-09-industry-knowledge/veterinary-poct-market/) — market size and growth drivers
+- [Technology Roadmap](/domain-09-industry-knowledge/technology-roadmap/) — from qualitative to quantitative POCT
+- [Regulatory Landscape](/domain-09-industry-knowledge/regulatory-landscape/) — IVDR, FDA, NMPA
+
 ## FAQ
 
 **Why is POCT growing faster than lab testing?** Same-visit results improve compliance and retain testing revenue in-clinic.
