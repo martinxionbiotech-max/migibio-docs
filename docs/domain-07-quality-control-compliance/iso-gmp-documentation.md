@@ -44,6 +44,6 @@ Each layer depends on the one before it. The COA certifies the lot; the IFU tell
 
 **What is the difference between ISO9001 and GMP?** ISO9001 is a general quality-management standard; GMP is specific to manufacturing. Migibio holds both.
 
-**Where do I find the COA?** It ships with the product lot; contact your distributor or info@magic-bio.com for a specific lot's COA.
+**Where do I find the COA?** It ships with the product lot; contact your distributor or martinwang2024@gmail.com for a specific lot's COA.
 
 *For the QC program, see [Internal QC Program](/domain-07-quality-control-compliance/internal-qc-program/).*

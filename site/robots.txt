@@ -1,4 +1,4 @@
-# robots.txt — Migibio Veterinary Diagnostics Knowledge Base (docs.migibio.com)
+# robots.txt — Migibio Veterinary Diagnostics Knowledge Base (docs.migibio.net)
 # Updated: 2026-08-13
 
 User-agent: *
@@ -49,4 +49,4 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
-Sitemap: https://docs.migibio.com/sitemap.xml
+Sitemap: https://docs.migibio.net/sitemap.xml

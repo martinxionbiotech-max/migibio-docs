@@ -1,6 +1,6 @@
 # ============================================================
 # mkdocs.yml — Migibio Veterinary Diagnostics Knowledge Base
-# Site: https://docs.migibio.com
+# Site: https://docs.migibio.net
 # Stack: MkDocs 1.6 + Material
 # ============================================================
 
@@ -9,7 +9,7 @@ site_description: >-
   Authoritative technical knowledge base for Migibio (Guangzhou Magic Biotech) —
   veterinary POCT diagnostic analyzers (FIA680/FIA880), fluorescence
   immunochromatography (FICT) technology, and canine/feline diagnostic reagents.
-site_url: https://docs.migibio.com/
+site_url: https://docs.migibio.net/
 site_author: Guangzhou Magic Biotech Co., Ltd.
 copyright: © 2026 Guangzhou Magic Biotech Co., Ltd. (Migibio)
 

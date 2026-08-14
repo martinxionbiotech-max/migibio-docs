@@ -43,4 +43,4 @@ The FIA680 and FIA880 are dedicated fluorescence immunoassay analyzers that read
 
 **What samples are accepted?** Serum, plasma, and whole blood (assay-dependent).
 
-*For assay performance data, see the [Data Hub](https://data.migibio.com/analyzer-comparison/).*
+*For assay performance data, see the [Data Hub](https://data.migibio.net/analyzer-comparison/).*

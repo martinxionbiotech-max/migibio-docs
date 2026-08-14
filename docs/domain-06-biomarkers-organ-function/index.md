@@ -41,4 +41,4 @@ description: "Organ-function and inflammatory biomarkers — SDMA, cystatin C, N
 
 **What does NT-proBNP tell me?** Whether dyspnea/cough is cardiac vs non-cardiac in origin.
 
-*For structured data cards, see the [Data Hub](https://data.migibio.com/biomarkers/).*
+*For structured data cards, see the [Data Hub](https://data.migibio.net/biomarkers/).*

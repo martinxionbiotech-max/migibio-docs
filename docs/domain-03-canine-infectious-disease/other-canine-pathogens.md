@@ -46,4 +46,4 @@ Both are antibody-detected infections with regional (Leishmania) or zoonotic (To
 
 **When is Leishmania testing indicated?** In endemic regions, or in imported dogs with compatible chronic signs (weight loss, lymphadenopathy, skin lesions).
 
-*For the full canine menu, see [Canine Infectious Disease](/domain-03-canine-infectious-disease/). For accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/).*
+*For the full canine menu, see [Canine Infectious Disease](/domain-03-canine-infectious-disease/). For accuracy data, see the [Research Center](https://research.migibio.net/infectious-disease/diagnostic-accuracy/).*

@@ -34,4 +34,4 @@ CPV is the highest-volume canine infectious-disease test. Rapid antigen detectio
 
 **What sample is used?** Fecal swab (preferred) for CPV; serum/plasma for antibody tests.
 
-*For diagnostic accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/).*
+*For diagnostic accuracy data, see the [Research Center](https://research.migibio.net/infectious-disease/diagnostic-accuracy/).*

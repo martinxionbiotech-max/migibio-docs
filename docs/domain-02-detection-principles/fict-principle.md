@@ -46,4 +46,4 @@ The analyzer:
 
 **Why does FICT need a dedicated analyzer?** The fluorophore must be excited and its emission measured precisely — only a calibrated fluorometer can do this.
 
-*For the full technical treatment, see the [Research Center white paper](https://research.migibio.com/fict-technology/fluorescence-immunochromatography/).*
+*For the full technical treatment, see the [Research Center white paper](https://research.migibio.net/fict-technology/fluorescence-immunochromatography/).*

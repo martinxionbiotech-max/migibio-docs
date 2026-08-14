@@ -35,4 +35,4 @@ FICT is a quantitative lateral-flow immunoassay. A fluorophore-labeled detection
 
 **What does the analyzer actually measure?** The fluorescence emission intensity at the test line, converted to concentration via a stored calibration curve.
 
-*For the full technical white paper, see the [Research Center](https://research.migibio.com/fict-technology/fluorescence-immunochromatography/).*
+*For the full technical white paper, see the [Research Center](https://research.migibio.net/fict-technology/fluorescence-immunochromatography/).*

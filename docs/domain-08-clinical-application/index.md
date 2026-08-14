@@ -47,4 +47,4 @@ Patient presents → sample collection → FICT test (3–15 min) → result →
 
 **Can I use whole blood?** Yes for most assays — verify against the specific IFU.
 
-*For reference ranges, see the [Data Hub](https://data.migibio.com/reference-ranges/).*
+*For reference ranges, see the [Data Hub](https://data.migibio.net/reference-ranges/).*

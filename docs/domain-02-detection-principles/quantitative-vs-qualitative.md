@@ -41,4 +41,4 @@ Qualitative strips remain appropriate for **pure screening** where yes/no suffic
 
 **Why not always use quantitative?** Cost and complexity. Quantitative requires an instrument. Where a number doesn't change management, qualitative is sufficient.
 
-*For the mechanism, see [FICT principle](/domain-02-detection-principles/fict-principle/). For method comparison, see the [Research Center](https://research.migibio.com/comparative-studies/).*
+*For the mechanism, see [FICT principle](/domain-02-detection-principles/fict-principle/). For method comparison, see the [Research Center](https://research.migibio.net/comparative-studies/).*

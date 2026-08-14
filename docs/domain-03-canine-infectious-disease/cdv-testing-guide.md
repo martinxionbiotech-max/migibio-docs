@@ -44,4 +44,4 @@ CDV antigen can be detected in conjunctival, nasal, or blood samples depending o
 
 **What is the prognosis for neurological distemper?** Guarded to poor — which is why early, pre-neurological detection is clinically valuable.
 
-*For diagnostic accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/).*
+*For diagnostic accuracy data, see the [Research Center](https://research.migibio.net/infectious-disease/diagnostic-accuracy/).*

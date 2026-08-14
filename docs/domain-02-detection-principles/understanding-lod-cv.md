@@ -51,4 +51,4 @@ An assay can be precise but inaccurate (consistently wrong) — which is why bot
 
 **What CV% should I expect from a good quantitative POCT?** Intra-assay < 8% and inter-assay < 10% is the standard Migibio targets.
 
-*For the full validation framework, see the [Research Center](https://research.migibio.com/analytical-performance/). For assay-specific values, see the [Data Hub](https://data.migibio.com/assay-performance/).*
+*For the full validation framework, see the [Research Center](https://research.migibio.net/analytical-performance/). For assay-specific values, see the [Data Hub](https://data.migibio.net/assay-performance/).*

@@ -39,4 +39,4 @@ description: "Resources for distributors and partners — procurement, OEM/ODM, 
 
 **Can I get a custom assay developed?** Yes — OEM assay development is available for validated targets.
 
-*For structured product data, see the [Data Hub](https://data.migibio.com/).*
+*For structured product data, see the [Data Hub](https://data.migibio.net/).*

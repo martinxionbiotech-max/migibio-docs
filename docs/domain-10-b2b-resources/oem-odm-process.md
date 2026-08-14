@@ -36,7 +36,7 @@ This page outlines the OEM/ODM process at Migibio — the stages from initial in
 
 ## FAQ
 
-**How long does OEM take?** Standard OEM (existing assays, your brand) is faster; custom ODM requires additional R&D and validation time. Contact info@magic-bio.com for current estimates.
+**How long does OEM take?** Standard OEM (existing assays, your brand) is faster; custom ODM requires additional R&D and validation time. Contact martinwang2024@gmail.com for current estimates.
 
 **Can you support regulatory registration in my market?** Yes — regulatory documentation and dossier support are part of the partnership.
 

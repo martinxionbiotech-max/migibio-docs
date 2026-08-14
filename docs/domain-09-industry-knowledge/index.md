@@ -37,4 +37,4 @@ description: "Industry context — the veterinary POCT market, regulatory landsc
 
 **What is driving the shift to quantitative POCT?** Clinical demand for monitoring (CRP/SAA serial testing, progesterone timing) requires concentration, not just positive/negative.
 
-*For market data, see the [Data Hub](https://data.migibio.com/industry-data/).*
+*For market data, see the [Data Hub](https://data.migibio.net/industry-data/).*

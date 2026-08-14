@@ -33,7 +33,7 @@ Migibio partners with businesses through three models. This page explains each a
 
 ## FAQ
 
-**What is the minimum order for OEM?** Contact info@magic-bio.com for current MOQs and terms.
+**What is the minimum order for OEM?** Contact martinwang2024@gmail.com for current MOQs and terms.
 
 **Do you provide training?** Yes — application and clinical training for distributors and OEM partners.
 

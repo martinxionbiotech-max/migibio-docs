@@ -31,4 +31,4 @@ Guangzhou Magic Biotech Co., Ltd. (brand: **Migibio**) is an ISO9001- and GMP-ce
 
 **Core technology:** Fluorescence Immunochromatographic Technology (FICT) — quantitative, instrument-read results with pg/ml-level sensitivity and CV% below 10%.
 
-For scientific evidence behind our technology, see our [research center](https://research.migibio.com). For structured data and reference ranges, see our [data hub](https://data.migibio.com).
+For scientific evidence behind our technology, see our [research center](https://research.migibio.net). For structured data and reference ranges, see our [data hub](https://data.migibio.net).

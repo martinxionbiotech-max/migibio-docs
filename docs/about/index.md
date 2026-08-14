@@ -19,7 +19,7 @@ This page documents who Migibio is and — more importantly — the credentials 
 | Core business | POCT veterinary diagnostic analyzers + fluorescence immunochromatographic (FICT) test reagents |
 | Export footprint | 30+ countries |
 | Intellectual property | 30 core patents |
-| Contact | info@magic-bio.com · +86-20-82288812 |
+| Contact | Martin.Wong — martinwang2024@gmail.com · +86 13323237275 (WhatsApp) |
 
 ## Certifications & Compliance
 
@@ -35,7 +35,7 @@ These certifications are the operational backbone of the QC workflows documented
 - **Core technology platform**: Fluorescence Immunochromatographic Technology (FICT) — quantitative, instrument-read immunoassays with pg/ml-scale sensitivity.
 - **Instrument line**: FIA680 (single-channel) and FIA880 (six-channel) fluorescence immunoassay analyzers.
 - **Reagent line**: Quantitative rapid tests for renal (SDMA), cardiac (NT-proBNP), inflammatory (CRP/SAA), endocrine (T4/TSH, cortisol, progesterone, relaxin), and infectious-disease (CPV/CDV/FPV/FeLV/FIV) markers.
-- **In-house validation**: Each assay undergoes analytical validation (LOD, LOQ, precision, linearity, accuracy, interference) per the methodology documented in our [Research Center](https://research.migibio.com/analytical-performance/).
+- **In-house validation**: Each assay undergoes analytical validation (LOD, LOQ, precision, linearity, accuracy, interference) per the methodology documented in our [Research Center](https://research.migibio.net/analytical-performance/).
 
 ## Product & Quality Documentation
 
@@ -50,10 +50,10 @@ This knowledge base complements — never replaces — the IFU. Where they diffe
 
 | Site | Purpose |
 |------|---------|
-| [migibio.com](https://migibio.com) | Main website — products, marketing, company blog |
-| [docs.migibio.com](https://docs.migibio.com) | This knowledge base — *how to use* the technology correctly |
-| [research.migibio.com](https://research.migibio.com) | Research center — *why the technology is trustworthy* (methodology, validation, comparative studies) |
-| [data.migibio.com](https://data.migibio.com) | Data hub — *the numbers* (reference ranges, assay performance, benchmarks) |
+| [migibio.net](https://migibio.net) | Main website — products, marketing, company blog |
+| [docs.migibio.net](https://docs.migibio.net) | This knowledge base — *how to use* the technology correctly |
+| [research.migibio.net](https://research.migibio.net) | Research center — *why the technology is trustworthy* (methodology, validation, comparative studies) |
+| [data.migibio.net](https://data.migibio.net) | Data hub — *the numbers* (reference ranges, assay performance, benchmarks) |
 
 ## Editorial Standards
 

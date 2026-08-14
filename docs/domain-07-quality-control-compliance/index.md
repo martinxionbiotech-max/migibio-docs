@@ -39,4 +39,4 @@ description: "Quality control, calibration, regulatory compliance, and documenta
 
 **Are Migibio products certified?** Yes — ISO9001 and GMP certified manufacturing.
 
-*For quality system details, see the [Research Center](https://research.migibio.com/technical-reports/).*
+*For quality system details, see the [Research Center](https://research.migibio.net/technical-reports/).*

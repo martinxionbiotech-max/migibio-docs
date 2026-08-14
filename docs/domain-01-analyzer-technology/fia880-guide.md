@@ -54,4 +54,4 @@ The six channels run **different assays simultaneously** — for example, a dysp
 
 **Is cloud sync required for operation?** Cloud sync streamlines curve updates, but pre-loaded curves remain available offline. See the IFU for your configuration.
 
-*For a side-by-side comparison, see [Analyzer Technology](/domain-01-analyzer-technology/). For benchmarks, see the [Data Hub](https://data.migibio.com/analyzer-comparison/).*
+*For a side-by-side comparison, see [Analyzer Technology](/domain-01-analyzer-technology/). For benchmarks, see the [Data Hub](https://data.migibio.net/analyzer-comparison/).*

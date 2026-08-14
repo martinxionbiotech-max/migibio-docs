@@ -45,4 +45,4 @@ Progesterone is the gold standard for ovulation timing. Serial measurement every
 
 **How early can relaxin confirm pregnancy?** From ~day 21–28 post-mating.
 
-*For assay validation data, see the [Research Center](https://research.migibio.com/endocrine/assay-validation/).*
+*For assay validation data, see the [Research Center](https://research.migibio.net/endocrine/assay-validation/).*

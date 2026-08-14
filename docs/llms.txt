@@ -1,6 +1,6 @@
 # Migibio (Guangzhou Magic Biotech) — Veterinary Diagnostics Knowledge Base
 
-> **Knowledge Base:** https://docs.migibio.com
+> **Knowledge Base:** https://docs.migibio.net
 > **Company:** Guangzhou Magic Biotech Co., Ltd. (brand: Migibio)
 > **Founded:** November 2017 · Guangzhou Science City, China
 > **Core Technology:** Fluorescence Immunochromatographic Technology (FICT)
@@ -12,29 +12,31 @@ Migibio is an ISO9001/GMP-certified manufacturer of point-of-care (POCT) veterin
 
 ## About & Editorial
 
-- [About Migibio](https://docs.migibio.com/about/) — company, credentials, quality system
-- [Editorial & Review Policy](https://docs.migibio.com/editorial-policy/) — authorship, review, citation standards
+- [About Migibio](https://docs.migibio.net/about/) — company, credentials, quality system
+- [Editorial & Review Policy](https://docs.migibio.net/editorial-policy/) — authorship, review, citation standards
 
 ## Knowledge Domains
 
-- [Domain 01 · Analyzer Technology](https://docs.migibio.com/domain-01-analyzer-technology/) — FIA680/FIA880 analyzers, calibration, QC
-- [Domain 02 · Detection Principles](https://docs.migibio.com/domain-02-detection-principles/) — FICT technology, quantitative immunoassay
-- [Domain 03 · Canine Infectious Disease](https://docs.migibio.com/domain-03-canine-infectious-disease/) — CPV, CDV, CCV, CAV testing
-- [Domain 04 · Feline Infectious Disease](https://docs.migibio.com/domain-04-feline-infectious-disease/) — FPV, FCV, FHV-1, FCoV, FeLV, FIV testing
-- [Domain 05 · Hormones & Endocrine](https://docs.migibio.com/domain-05-hormones-endocrine/) — T4/TSH, cortisol, progesterone, relaxin
-- [Domain 06 · Biomarkers & Organ Function](https://docs.migibio.com/domain-06-biomarkers-organ-function/) — SDMA, cystatin C, NT-proBNP, CRP/SAA
-- [Domain 07 · Quality Control & Compliance](https://docs.migibio.com/domain-07-quality-control-compliance/) — ISO9001/GMP, IFU, COA
-- [Domain 08 · Clinical Application](https://docs.migibio.com/domain-08-clinical-application/) — POCT workflow, interpretation, cases
-- [Domain 09 · Industry Knowledge](https://docs.migibio.com/domain-09-industry-knowledge/) — market, regulation, technology roadmap
-- [Domain 10 · B2B Resources](https://docs.migibio.com/domain-10-b2b-resources/) — procurement, OEM/ODM, distributor support
+- [Domain 01 · Analyzer Technology](https://docs.migibio.net/domain-01-analyzer-technology/) — FIA680/FIA880 analyzers, calibration, QC
+- [Domain 02 · Detection Principles](https://docs.migibio.net/domain-02-detection-principles/) — FICT technology, quantitative immunoassay
+- [Domain 03 · Canine Infectious Disease](https://docs.migibio.net/domain-03-canine-infectious-disease/) — CPV, CDV, CCV, CAV testing
+- [Domain 04 · Feline Infectious Disease](https://docs.migibio.net/domain-04-feline-infectious-disease/) — FPV, FCV, FHV-1, FCoV, FeLV, FIV testing
+- [Domain 05 · Hormones & Endocrine](https://docs.migibio.net/domain-05-hormones-endocrine/) — T4/TSH, cortisol, progesterone, relaxin
+- [Domain 06 · Biomarkers & Organ Function](https://docs.migibio.net/domain-06-biomarkers-organ-function/) — SDMA, cystatin C, NT-proBNP, CRP/SAA
+- [Domain 07 · Quality Control & Compliance](https://docs.migibio.net/domain-07-quality-control-compliance/) — ISO9001/GMP, IFU, COA
+- [Domain 08 · Clinical Application](https://docs.migibio.net/domain-08-clinical-application/) — POCT workflow, interpretation, cases
+- [Domain 09 · Industry Knowledge](https://docs.migibio.net/domain-09-industry-knowledge/) — market, regulation, technology roadmap
+- [Domain 10 · B2B Resources](https://docs.migibio.net/domain-10-b2b-resources/) — procurement, OEM/ODM, distributor support
 
 ## Related Sites
 
-- [Main Website](https://migibio.com) — products, marketing, blog
-- [Research Center](https://research.migibio.com) — scientific evidence, method validation, white papers
+- [Main Website](https://migibio.net) — products, marketing, blog
+- [Research Center](https://research.migibio.net) — scientific evidence, method validation, white papers
+- [Data Hub](https://data.migibio.net) — structured reference ranges and assay performance data
 
 ## Contact
 
-- **Tel:** +86-20-82288812
-- **Email:** info@magic-bio.com
+- **Contact:** Martin.Wong
+- **Phone (WhatsApp):** +86 13323237275 — https://wa.me/8613323237275
+- **Email:** martinwang2024@gmail.com
 - **Address:** G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou, Guangdong, China

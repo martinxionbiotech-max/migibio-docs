@@ -58,4 +58,4 @@ The **FIA680** is Migibio's single-channel fluorescence immunoassay analyzer —
 
 **Do I need to build a standard curve manually?** No — curves are pre-loaded via QR code; the operator never manually constructs one.
 
-*For a side-by-side comparison, see [Analyzer Technology](/domain-01-analyzer-technology/). For structured benchmarks, see the [Data Hub](https://data.migibio.com/analyzer-comparison/).*
+*For a side-by-side comparison, see [Analyzer Technology](/domain-01-analyzer-technology/). For structured benchmarks, see the [Data Hub](https://data.migibio.net/analyzer-comparison/).*

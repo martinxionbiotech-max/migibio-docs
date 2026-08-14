@@ -43,4 +43,4 @@ FPV and CPV are closely related parvoviruses. Some assays cross-react — confir
 
 **What is the prognosis for panleukopenia?** Guarded in kittens; early detection and aggressive supportive care improve survival.
 
-*For diagnostic accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/).*
+*For diagnostic accuracy data, see the [Research Center](https://research.migibio.net/infectious-disease/diagnostic-accuracy/).*

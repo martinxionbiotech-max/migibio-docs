@@ -48,7 +48,7 @@ We do **not**:
 
 ## 5. Correction Policy
 
-If you find an error, email **info@magic-bio.com** with the page URL and the specific issue. Corrections are logged, reviewed by the R&D Quality Committee, and applied within a reasonable review cycle. Material corrections that could affect clinical interpretation are prioritized.
+If you find an error, email **martinwang2024@gmail.com** with the page URL and the specific issue. Corrections are logged, reviewed by the R&D Quality Committee, and applied within a reasonable review cycle. Material corrections that could affect clinical interpretation are prioritized.
 
 ## 6. Scope & Separation From Regulated Claims
 

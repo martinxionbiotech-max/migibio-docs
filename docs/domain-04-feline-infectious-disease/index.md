@@ -34,4 +34,4 @@ FeLV antigen and FIV antibody are the standard screening tests for new cats, sic
 
 **Can I test for FPV like CPV?** Yes — same VP2 antigen principle (same virus genus).
 
-*For diagnostic accuracy data, see the [Research Center](https://research.migibio.com/infectious-disease/diagnostic-accuracy/).*
+*For diagnostic accuracy data, see the [Research Center](https://research.migibio.net/infectious-disease/diagnostic-accuracy/).*
